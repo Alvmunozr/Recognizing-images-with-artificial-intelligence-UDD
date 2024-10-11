@@ -11,7 +11,7 @@ As cars and people cross these polylines, the system tracks and counts the cross
 VIDEOS USES AND CREATED IN THE PROYECT:
 
 Example Video: https://youtu.be/dq17cwQ6rS8
-Rendered Video: https://youtu.be/RhDeQKhUV3I
+Renderized Video: https://youtu.be/JfhKRAtKnZ8
 
 IMPORTANT:
 Change include the video to the SMARTFLOW folder and change the video_path
